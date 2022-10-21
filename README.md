@@ -8,4 +8,4 @@ Learn how to write markdown files [here](content/markdown.md)
 How does a console work, find out here [console](content/console.md)
 
 ## Important git commands
-Find the most important git commands here: [git](content/git-cmds.md)
+Find important git commands here: [git](content/git-cmds.md)
